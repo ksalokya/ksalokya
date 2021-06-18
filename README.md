@@ -1,5 +1,5 @@
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"> Hi, I’m Salokya Kumar
-- 👀 I’m interested in Front End Web Development & Cyber Security
+- 👀 I’m interested in Web Development & Cyber Security
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development & Cyber Security
 - 📫 How to reach me kumar.salokya007@gmail.com
