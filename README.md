@@ -6,11 +6,9 @@
 - 📫 How to reach me kumar.salokya007@gmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=chartreuse-dark&show_icons=true&hide_border=true" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true&" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=chartreuse-dark&show_icons=true&hide_border=true" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true&" height="175px">
 </div>
-
-<img alt="Salokya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ksalokya&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true" />
 
 ## Technologies I can work with :
 
