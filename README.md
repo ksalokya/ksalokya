@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&show_icons=true&theme=dark&hide_border=true" height="200px">
 </div>
 
-## Technologies I can work with
+## Technologies I can work with :
 
 ###
 <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
