@@ -5,9 +5,12 @@
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me kumar.salokya007@gmail.com
 
+<hr>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=chartreuse-dark&show_icons=true&hide_border=true" height="175px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true&" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true&"            height="175px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=tokyonight" width="50%">
 </div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true">
