@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=tokyonight" width="60%">
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&bg_color=000000&color=39FF14&line=FF0&point=F00&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
 
 ## Technologies I can work with :
 
