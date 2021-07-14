@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on any project that'll help me learn new things!
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me kumar.salokya007@gmail.com
-<hr>
+
+## &#x1f4c8; GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=chartreuse-dark&show_icons=true&hide_border=true" height="175px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=6&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true&"            height="175px">
 </div>
-<hr> 
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=tokyonight" width="60%">
@@ -20,9 +20,8 @@
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
 </div>
-<hr>
 
-## Technologies I can work with :
+## 🔧 Technologies I can work with :
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/code.gif?raw=true" width="400" height="250" />
