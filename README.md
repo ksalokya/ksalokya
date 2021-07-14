@@ -24,23 +24,26 @@
 
 ## Technologies I can work with :
 
-<code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="45" alt="HTML5" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="45" alt="CSS3" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="45" alt="Bash" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/bash/bash-original.svg"></code>
+<div>
+  <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/code.gif?raw=true" width="400" height="250" />
+  
+  <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+  <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img height="45" alt="HTML5" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img height="45" alt="CSS3" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+  <code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="45" alt="Bash" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/bash/bash-original.svg"></code>
 
-<code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
-<code><img height="45" alt="Tailwind CSS" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"></code>
-<code><img height="45" alt="jQuery" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"></code>
+  <code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+  <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  <code><img height="45" alt="Tailwind CSS" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">   </code>
+  <code><img height="45" alt="jQuery" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"></code>
 
-<code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="45" alt="Express.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
+  <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+  <code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img height="45" alt="Express.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
 
-<code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"></code>
-<code><img height="45" alt="Firebase" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
-
+  <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"></code>
+  <code><img height="45" alt="Firebase" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
+</div>
 
