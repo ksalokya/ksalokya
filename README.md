@@ -26,7 +26,7 @@
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/code.gif?raw=true" width="400" height="250" />
-  
+ 
   <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
   <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img height="45" alt="HTML5" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
