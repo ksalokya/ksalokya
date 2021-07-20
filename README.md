@@ -46,6 +46,6 @@
   <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"></code>
   <code><img height="45" alt="Firebase" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
   
-  <code><img height="45" alt="Seo" style="background: white;" src=""></code>
+  <code><img height="45" alt="Seo" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/seo.svg"></code>
 </div>
 
