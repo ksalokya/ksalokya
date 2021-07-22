@@ -14,12 +14,12 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=tokyonight" width="60%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=cobalt" width="60%">
 </div>
 <hr>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=xcode&hide_border=true&area=true">
 </div>
 
 ## 🔧 Technologies I can work with :
