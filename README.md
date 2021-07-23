@@ -7,7 +7,7 @@
 
 ## :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007@gmail.com)
 
 ## &#x1f4c8; GitHub Stats
 
