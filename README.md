@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on any project that'll help me learn new things!
 - 💬 Ask me about anything, I'm happy to help!
 - ⚡ Fun fact: Comments to temporarily remove part of code..😁
-- 📫 How to reach me kumar.salokya007@gmail.com
+
+## :mailbox: Reach me out!
+
+[![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007gmail.com)
 
 ## &#x1f4c8; GitHub Stats
 
