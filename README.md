@@ -23,7 +23,7 @@
 <hr>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=xcode&hide_border=true&area=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=chartreuse-dark&hide_border=true&area=true">
 </div>
 
 ## 🔧 Technologies I can work with :
