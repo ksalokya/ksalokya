@@ -58,5 +58,6 @@
   
   <code><img height="45" alt="Firebase" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
   <code><img height="45" alt="Heroku" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"></code>
+  <code><img height="45" alt="Netlify" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/netlify.svg"></code>
 </div>
 
