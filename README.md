@@ -39,23 +39,19 @@
   <code><img height="45" alt="CSS3" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
   <code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="45" alt="Bash" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
-
   <code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
   <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
   <code><img height="45" alt="Tailwind CSS" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">   </code>
   <code><img height="45" alt="jQuery" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"></code>
-
   <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="45" alt="Express.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
   <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"></code>
   <code><img height="45" alt="Rest" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/rest-api.svg"></code>
-  
   <code><img height="45" alt="Seo" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/seo.svg"></code>
   <code><img height="45" alt="Git" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img height="45" alt="GitHub" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/github/github-original.svg"></code>
   <code><img height="45" alt="Postman" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/postman.svg"></code>
-  
   <code><img height="45" alt="Firebase" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
   <code><img height="45" alt="Heroku" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"></code>
   <code><img height="45" alt="Netlify" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/netlify.svg"></code>
