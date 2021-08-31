@@ -9,7 +9,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salokya-kumar/)
-[![Twitter Badge](https://img.shields.io/badge/-@ksalokya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ksalokya)
 
 ## &#x1f4c8; GitHub Stats
 
