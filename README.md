@@ -17,10 +17,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=10&layout=compact&hide_border=true&theme=chartreuse-dark&show_icons=true" height="175px">
 </div>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=cobalt" width="60%">
-</div>
-<hr>
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=chartreuse-dark&hide_border=true&area=true">
