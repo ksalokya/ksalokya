@@ -20,6 +20,9 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=cobalt" width="60%">
 </div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ksalokya" alt="visit" />
+</div>
 <hr>
 
 <div align="center">
