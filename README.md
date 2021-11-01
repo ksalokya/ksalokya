@@ -1,4 +1,4 @@
-
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I%27m+Salokya+Kumar!">
 
 - 🔭 I’m currently working on various projects usign MERN Stack.
 - 👀 I’m interested in Web Development & Cyber Security.
