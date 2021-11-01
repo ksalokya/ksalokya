@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on various projects usign MERN Stack.
 - 👀 I’m interested in Web Development & Cyber Security.
-- 💞️ I’m looking to collaborate on any project that'll help me learn new things!
-- 💬 Ask me about anything, I'm happy to help!
+- 💞️ I’m looking to collaborate on any project that'll help me to learn new things!
+- 💬 Ask me about anything, I will be happy to help!
 - ⚡ Fun fact: Comments to temporarily remove part of code..😁
 
 ## :mailbox: Reach me out!
