@@ -1,4 +1,5 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"> Hi, I’m Salokya Kumar
+
+
 - 🔭 I’m currently working on various projects usign MERN Stack.
 - 👀 I’m interested in Web Development & Cyber Security.
 - 💞️ I’m looking to collaborate on any project that'll help me learn new things!
@@ -29,6 +30,8 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=chartreuse-dark&hide_border=true&area=true">
 </div>
 
+  
+
 ## 🔧 Technologies I can work with :
 
 <div>
@@ -56,6 +59,7 @@
   <code><img height="45" alt="Git" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/git/git-original.svg"></code>
   
   <code><img height="45" alt="GitHub" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/github/github-original.svg"></code>
+  <code><img height="45" alt="NPM" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
   <code><img height="45" alt="Postman" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/postman.svg"></code>
   <code><img height="45" alt="Firebase" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"></code>
   <code><img height="45" alt="Heroku" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"></code>
