@@ -34,6 +34,9 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=chartreuse-dark&hide_border=true&area=true">
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=onedark&column=8">
+</div>
   
 
 ## 🔧 Technologies I can work with :
