@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=onedark&column=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=discord&column=8">
 </div>
   
 
