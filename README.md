@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I%27m+Salokya+Kumar!">
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Salokya+Kumar!">
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90" width="180">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=90&reversal=true" width="180">
