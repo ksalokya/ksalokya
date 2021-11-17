@@ -13,7 +13,8 @@
 ## :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salokya-kumar/)
+[![Linkedin Badge](https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salokya-kumar)
+[![Website Badge](https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange)](https://salokyakumar.me)
 
 ## &#x1f4c8; GitHub Stats
 
