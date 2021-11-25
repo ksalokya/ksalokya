@@ -32,9 +32,9 @@
 </div>
 <hr>
 
-<!-- <div align="center">
+<div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=chartreuse-dark&hide_border=true&area=true">
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=discord&column=8">
