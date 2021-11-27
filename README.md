@@ -40,7 +40,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=discord&column=8">
 </div>
   
-
 ## 🔧 Technologies I can work with :
 
 <div>
@@ -75,4 +74,3 @@
   <code><img height="45" alt="Netlify" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/netlify.svg"></code>
   <code><img height="45" alt="Linux" style="background: white;" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 </div>
-
