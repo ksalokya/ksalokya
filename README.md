@@ -10,6 +10,9 @@
 - 💬 Ask me about anything, I will be happy to help!
 - ⚡ Fun fact: Comments to temporarily remove part of code..😁
 
+![](https://komarev.com/ghpvc/?username=ksalokya&style=plastic)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ksalokya)
+
 ## :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007@gmail.com)
@@ -26,9 +29,6 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=cobalt" width="60%">
-</div>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ksalokya" alt="visit" />
 </div>
 <hr>
 
