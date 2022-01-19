@@ -23,17 +23,17 @@
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="175px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=8&layout=compact&hide_border=true&theme=chartreuse-dark" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="175px">
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=cobalt" width="60%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksalokya&theme=radical" width="60%">
 </div>
 <hr>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=chartreuse-dark&hide_border=true&area=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
 </div>
 
 <div align="center">
