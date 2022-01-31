@@ -49,11 +49,11 @@
   <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img height="45" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
   <code><img height="45" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img height="45" alt="SQL" style="background: white;" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></code>
+  <code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    
   <code><img height="45" alt="HTML5" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="45" alt="CSS3" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-    
-  <code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="45" alt="Bash" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
   <code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
   <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
   <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
