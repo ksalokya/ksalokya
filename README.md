@@ -64,9 +64,9 @@
   <code><img height="45" alt="Pandas" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></code>
   <code><img height="45" alt="NumPy" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></code>
   <code><img height="45" alt="Seaborn" style="background: white;" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.svg"></code>
-  <code><img height="45" alt="Linux" style="background: white;" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-    
   <code><img height="45" alt="Matplotlib" style="background: white;" src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg"></code>
+  
+  <code><img height="45" alt="Linux" style="background: white;" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
   <code><img height="45" alt="Git" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img height="45" alt="NPM" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
   <code><img height="45" alt="Postman" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/postman.svg"></code>
