@@ -40,10 +40,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=discord&column=8">
 </div>
   
-## 🔧 Technologies I can work with :
+## 🔧 Technologies & Tools I can work with :
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/assests/gif/code.gif?raw=true" width="400" height="250" />
+  <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/assests/gif/code.gif?raw=true" width="400" height="300" />
  
   <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
   <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -55,21 +55,28 @@
   <code><img height="45" alt="HTML5" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="45" alt="CSS3" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
   <code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-  <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
   <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-    
   <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"></code>
+   
+  <code><img height="45" alt="Mysql" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"></code>
+  <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  <code><img height="45" alt="Chart.js" style="background: white;" src="https://www.chartjs.org/img/chartjs-logo.svg"></code>
   <code><img height="45" alt="Seo" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/seo.svg"></code>
   <code><img height="45" alt="Pandas" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></code>
   <code><img height="45" alt="NumPy" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></code>
+    
   <code><img height="45" alt="Seaborn" style="background: white;" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.svg"></code>
   <code><img height="45" alt="Matplotlib" style="background: white;" src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg"></code>
-  
   <code><img height="45" alt="Linux" style="background: white;" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
   <code><img height="45" alt="Git" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/git/git-original.svg"></code>
-  <code><img height="45" alt="NPM" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
   <code><img height="45" alt="Postman" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/postman.svg"></code>
   <code><img height="45" alt="Heroku" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"></code>
+    
   <code><img height="45" alt="Netlify" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/netlify.svg"></code>
+  <code><img height="45" alt="Webstorm" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/11255943571552037069-512.png"></code>
+  <code><img height="45" alt="Clion" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/7547080541536207303-512.png"></code>
+  <code><img height="45" alt="Atom" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/4720900691536126574-512.png"></code>
+  <code><img height="45" alt="Vscode" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png"></code>
+  <code><img height="45" alt="Eclipse" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/10841419581536298171-512.png"></code>
 </div>
