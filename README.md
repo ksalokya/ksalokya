@@ -57,7 +57,7 @@
   <code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
   <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"></code>
+  <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
    
   <code><img height="45" alt="Mysql" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"></code>
   <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
