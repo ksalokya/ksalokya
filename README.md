@@ -61,7 +61,7 @@
    
   <code><img height="45" alt="Mysql" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"></code>
   <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
-  <code><img height="45" alt="Chart.js" style="background: white;" src="https://www.chartjs.org/img/chartjs-logo.svg"></code>
+  <code><img height="45" alt="React Bootstrap" style="background: white;" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"></code>
   <code><img height="45" alt="Seo" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/seo.svg"></code>
   <code><img height="45" alt="Pandas" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></code>
   <code><img height="45" alt="NumPy" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></code>
