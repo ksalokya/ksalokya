@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksalokya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="175px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksalokya&hide=jupyter%20notebook&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" height="175px">
 </div>
 
 <div align="center">
