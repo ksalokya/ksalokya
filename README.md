@@ -18,10 +18,18 @@
 ## :mailbox: Reach me out!
 
 <div>
-    <img src="https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" href="mailto:kumarsalokya007@gmail.com">
-    <img src="https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/salokya-kumar">
-    <img src="https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange" href="https://salokyakumar.me">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white" href="https://kumar-salokya007.medium.com">
+    <a href="mailto:kumarsalokya007@gmail.com">
+        <img src="https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/salokya-kumar">
+        <img src="https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://salokyakumar.me">
+        <img src="https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange">
+    </a>
+    <a href="https://kumar-salokya007.medium.com">
+        <img src="https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white">
+    </a>
 </div>
 
 ## &#x1f4c8; GitHub Stats
