@@ -10,15 +10,19 @@
 - 💬 Ask me about anything, I will be happy to help!
 - ⚡ Fun fact: Comments to temporarily remove part of code..😁
 
-![](https://komarev.com/ghpvc/?username=ksalokya&style=plastic)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ksalokya)
+<div>
+ <img src="https://komarev.com/ghpvc/?username=ksalokya&style=plastic">
+ <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ksalokya">
+</div>
 
 ## :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kumarsalokya007@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salokya-kumar)
-[![Website Badge](https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange)](https://salokyakumar.me)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white)](https://kumar-salokya007.medium.com)
+<div>
+    <img src="https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" href="mailto:kumarsalokya007@gmail.com">
+    <img src="https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/salokya-kumar">
+    <img src="https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange" href="https://salokyakumar.me">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white" href="https://kumar-salokya007.medium.com">
+</div>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -43,40 +47,50 @@
 ## 🔧 Technologies & Tools I can work with :
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/assests/gif/code.gif?raw=true" width="400" height="300" />
- 
-  <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-  <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="45" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-  <code><img height="45" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-  <code><img height="45" alt="SQL" style="background: white;" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></code>
-  <code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    <img align="right" alt="GIF" src="https://github.com/ksalokya/ksalokya/blob/main/assests/gif/code.gif?raw=true" width="400" height="300" />
+
+<div>
+    <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+    <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+    <code><img height="45" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+    <code><img height="45" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+    <code><img height="45" alt="SQL" style="background: white;" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></code>
+    <code><img height="45" alt="JavaScript" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+</div>
     
+<div>   
   <code><img height="45" alt="HTML5" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="45" alt="CSS3" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
   <code><img height="45" alt="Bootstrap" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
   <code><img height="45" alt="React" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img height="45" alt="Node.js" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <code><img height="45" alt="MongoDB" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></code>
-   
+</div> 
+
+<div> 
   <code><img height="45" alt="Mysql" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/19218518301553750371-512.png"></code>
   <code><img height="45" alt="Material UI" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
   <code><img height="45" alt="React Bootstrap" style="background: white;" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"></code>
   <code><img height="45" alt="Seo" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/seo.svg"></code>
   <code><img height="45" alt="Pandas" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></code>
   <code><img height="45" alt="NumPy" style="background: white;" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></code>
-    
+</div>
+
+<div> 
   <code><img height="45" alt="Seaborn" style="background: white;" src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.svg"></code>
   <code><img height="45" alt="Matplotlib" style="background: white;" src="https://github.com/matplotlib/matplotlib/blob/main/doc/_static/matplotlib-icon.svg"></code>
   <code><img height="45" alt="Linux" style="background: white;" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
   <code><img height="45" alt="Git" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img height="45" alt="Postman" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/postman.svg"></code>
   <code><img height="45" alt="Heroku" style="background: white;" src="https://github.com/ksalokya/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"></code>
+</div>
     
+<div> 
   <code><img height="45" alt="Netlify" style="background: white;" src="https://github.com/ksalokya/ksalokya/blob/main/assests/images/netlify.svg"></code>
   <code><img height="45" alt="Webstorm" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/11255943571552037069-512.png"></code>
   <code><img height="45" alt="Clion" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/7547080541536207303-512.png"></code>
   <code><img height="45" alt="Atom" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/4720900691536126574-512.png"></code>
   <code><img height="45" alt="Vscode" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png"></code>
   <code><img height="45" alt="Eclipse" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/10841419581536298171-512.png"></code>
+</div> 
 </div>
