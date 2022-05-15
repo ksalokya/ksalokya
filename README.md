@@ -27,8 +27,8 @@
     <a href="https://salokyakumar.me">
         <img src="https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange">
     </a>
-    <a href="https://kumar-salokya007.medium.com">
-        <img src="https://img.shields.io/badge/Medium-kumar_salokya007-black">
+    <a href="https://ksalokya007.medium.com/">
+        <img src="https://img.shields.io/badge/Medium-ksalokya007-black">
     </a>
 </div>
 
