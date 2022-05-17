@@ -24,11 +24,11 @@
     <a href="https://www.linkedin.com/in/salokya-kumar">
         <img src="https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://salokyakumar.me">
-        <img src="https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange">
-    </a>
     <a href="https://ksalokya007.medium.com/">
         <img src="https://img.shields.io/badge/ksalokya007-12100E?style=flat&logo=medium&logoColor=white">
+    </a>
+    <a href="https://salokyakumar.me">
+        <img src="https://img.shields.io/badge/Portfolio-Salokya%20Kumar-orange">
     </a>
 </div>
 
