@@ -54,7 +54,7 @@
   
 ## 🔧 Technologies & Tools I can work with :
 
-<div>
+<div align="center">
     <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
     <code><img height="45" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
     <code><img height="45" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
