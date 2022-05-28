@@ -15,23 +15,6 @@
  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ksalokya">
 </div>
 
-## :mailbox: Reach me out!
-
-<div>
-    <a href="mailto:kumarsalokya007@gmail.com">
-        <img src="https://img.shields.io/badge/-kumarsalokya007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/salokya-kumar">
-        <img src="https://img.shields.io/badge/-Salokya_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://ksalokya007.medium.com/">
-        <img src="https://img.shields.io/badge/ksalokya007-12100E?style=flat&logo=medium&logoColor=white">
-    </a>
-    <a href="https://salokyakumar.me">
-        <img src="https://img.shields.io/badge/Portfolio-salokyakumar.me-orange">
-    </a>
-</div>
-
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
