@@ -27,15 +27,15 @@
 </div>
 <hr>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=discord&column=8">
 </div>
   
-## 🔧 Technologies & Tools I can work with :
+<!-- ## 🔧 Technologies & Tools I can work with :
 
 <div align="center">
     <code><img height="45" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
@@ -69,4 +69,4 @@
   <code><img height="45" alt="Atom" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/4720900691536126574-512.png"></code>
   <code><img height="45" alt="Vscode" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/14178750871552037061-512.png"></code>
   <code><img height="45" alt="Eclipse" style="background: white;" src="https://pics.freeicons.io/uploads/icons/png/10841419581536298171-512.png"></code>
-</div>
+</div> -->
