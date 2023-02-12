@@ -27,9 +27,9 @@
 </div>
 <hr>
 
-<!-- <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
-</div> -->
+<div align="center">
+    <img src=https://github-readme-activity-graph.cyclic.app/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ksalokya&theme=discord&column=8">
