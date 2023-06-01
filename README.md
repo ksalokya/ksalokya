@@ -28,7 +28,7 @@
 <hr>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksalokya&theme=react-dark&hide_border=true&area=true">
 </div>
 
 <div align="center">
